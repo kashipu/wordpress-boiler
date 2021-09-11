@@ -3,8 +3,12 @@ Theme name: Theme Custom
 Version: 1.0
 Description: Sitio para probar funciones
 Author: William Alirio Moreno Vargas
-Authon URI: https://github.com/alej36
+Authon URI: https://github.com/kashipu
 License: GNU General Public Licence v2 or later
 License: http://www.gnu.org/licenses/gpl-2.0.html
 
 */
+
+body {
+    background-color: aquamarine;
+}
